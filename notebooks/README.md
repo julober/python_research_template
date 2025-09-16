@@ -1,1 +1,1 @@
-Put here Rmarkdown documents involving different analyses for the project.
+This folder contains notebooks on different analyses. Notebooks have code and figures to explain how I get to a certain output. 
